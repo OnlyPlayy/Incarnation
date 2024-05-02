@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 03a2c62bc5062e443a9c611e20aa131b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentParent: {instanceID: 0}
+  - parentScript: {instanceID: 0}
+  - attackParticleSystemPrefab: {fileID: 3610427750751083424, guid: d12c04cedcf4a824abbf54cbeeaba1f8, type: 3}
+  - roarSystemPrefab: {fileID: 2508307860110064961, guid: 7afa4bd2bb8fd47939e57b7cd3a5fc7c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

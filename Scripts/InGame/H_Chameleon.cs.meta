@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: be271fc1de4f437edb84c90acf8a91e4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentParent: {instanceID: 0}
+  - parentScript: {instanceID: 0}
+  - imprintPrefab: {fileID: 4794406309529474305, guid: a1b07f0a961497441ad64054614d6fbc, type: 3}
+  - chameleonMaterial: {fileID: 2100000, guid: 19dfad26a77d5f851aa942b3371f4ede, type: 2}
+  - invisibilityMaterial: {fileID: 2100000, guid: 4e9021d570122a8df8854e0d8487af36, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

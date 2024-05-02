@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 3d5de0dbfafc9d24b8528f7a320959b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - HUD: {fileID: 3224902586115890692, guid: 38b1e36144767e64e97add8af7b03918, type: 3}
+  - playerScoreHUDUnit: {fileID: 608934459343217397, guid: de87462bd37e49e4292cf2624f8549d3, type: 3}
+  - wrapRoundUIPrefab: {fileID: 3670451129005495630, guid: d64885bf5c87b1248be20bec0d2d172f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: 4d1b32b42298e44f88e1fc22718ee481
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - roarUnitPrefab: {fileID: 2466772643940269465, guid: cf6640331e20d2affb67fd32ba050293, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
